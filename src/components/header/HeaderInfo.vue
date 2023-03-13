@@ -1,7 +1,9 @@
 <template>
     <section class="bgCustom">
-        <div class="container mx-auto">
-            <p></p>
+        <div class="container h-[50px] mx-auto flex items-center">
+            <font-awesome-icon icon="fa-solid fa-clock" />
+            <p>open</p>
+            <p>dd</p>
         </div>
     </section>
 </template>
@@ -13,6 +15,5 @@ export default {
 <style scoped lang="scss">
     .bgCustom{
         background-color: var(--SmaltBlue);
-        height: 50px;
     }
 </style>
