@@ -1,7 +1,7 @@
 <template>
-    <section class="bg-SmaltBlue text-SilverSand">
-        <div class="container h-[50px] mx-auto flex items-center justify-between text-sm">
-            <div class="opernHours flex items-center">
+    <section class="bg-key-SmaltBlue text-key-SilverSand">
+        <div class="container max-w-[1150px] h-[50px] flex items-center justify-between text-sm">
+            <div class="opernHours flex items-center gap-2">
                 <font-awesome-icon icon="fa-solid fa-clock" />
                 <p>Open Hours: Mon - Sat - 9:00 - 18:00</p>
             </div>

@@ -13,9 +13,7 @@ export default{
 
 <template>
   <Header />
-  <h1>ciao</h1>
 </template>
 
 <style lang="scss">
-
 </style>
