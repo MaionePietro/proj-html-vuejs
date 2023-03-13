@@ -1,15 +1,24 @@
 <script>
+import Header from './components/header/Header.vue';
+import Main from './components/main/Main.vue';
+import Footer from './components/footer/Footer.vue';
+export default{
+  components:{
+    Header,
+    Main,
+    Footer
+  }
+}
 </script>
 
 <template>
-  <div>
-    <a href="https://vitejs.dev" target="_blank">
-      <img src="/vite.svg" class="logo" alt="Vite logo" />
-    </a>
-  </div>
-  
+  <Header />
+  <h1>ciao</h1>
 </template>
 
-<style scoped>
-
+<style lang="scss">
+@use'./style/color.scss';
+h1{
+  color: var(--FountainBlue);
+}
 </style>
