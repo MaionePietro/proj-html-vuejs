@@ -17,8 +17,5 @@ export default{
 </template>
 
 <style lang="scss">
-@use'./style/color.scss';
-h1{
-  color: var(--FountainBlue);
-}
+
 </style>
