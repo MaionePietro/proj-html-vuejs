@@ -1,5 +1,6 @@
 <template>
     <MainInfo />
+    <MainCompany />
 </template>
 <script>
 import MainInfo from './MainInfo.vue';
