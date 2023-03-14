@@ -22,16 +22,32 @@
                     Planning, recruitment and selection process and <br>
                     performance evaluation of employees.
                 </p>
-                <div class="card">
-                    <div class="box w-[360px] h-[317px] p-[45px] rounded bg-key-White text-lg">
-                        <div class="circle bg-key-Circle text-key-Eim p-[20px] max-w-max rounded-full flex items-center justify-center">
+                <div class="card flex">
+                    <div class="box w-[173px] h-[152px] bg-key-White text-lg">
+                        <p class=" text-key-Eim text-[50px]">
                             0
-                        </div>
-                        <h1 class="text-xl font-bold my-5">Employees</h1>
+                        </p>
+                        <h1 class="text-xl font-bold my-2">Employees</h1>
                         <p class="font-light text-base text-key-SilverSand">
-                            Archieving maximum impact and <br>
-                            value from investments in <br>
-                            finance and supply chain.
+                            Archieving maximum impact 
+                        </p>
+                    </div>
+                    <div class="box w-[173px] h-[152px] bg-key-White text-lg">
+                        <p class=" text-key-Eim text-[50px]">
+                            0
+                        </p>
+                        <h1 class="text-xl font-bold my-2">Employees</h1>
+                        <p class="font-light text-base text-key-SilverSand">
+                            Archieving maximum impact 
+                        </p>
+                    </div>
+                    <div class="box w-[173px] h-[152px] bg-key-White text-lg">
+                        <p class=" text-key-Eim text-[50px]">
+                            0
+                        </p>
+                        <h1 class="text-xl font-bold my-2">Employees</h1>
+                        <p class="font-light text-base text-key-SilverSand">
+                            Archieving maximum impact 
                         </p>
                     </div>
                 </div>
