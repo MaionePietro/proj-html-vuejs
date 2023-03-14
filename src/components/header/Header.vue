@@ -1,6 +1,7 @@
 <template>
    <HeaderInfo />
-   <section class="brightness-5 bg-[url('/src/assets/img/bg-4.jpg')]">
+   <section class="brightness-5 bg-[url('/src/assets/img/bg-4.jpg')] relative">
+    <HeaderNavBar class="absolute" />
     <div class="container h-[862px] max-w-[1150px] flex items-center content-center">
         <div class=" flex-col">
             <p class="text-key-FountainBlue my-6">HUMAN RESOURCE</p>
