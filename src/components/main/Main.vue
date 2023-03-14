@@ -1,6 +1,7 @@
 <template>
     <MainInfo />
     <MainCompany />
+    <MainCards />
 </template>
 <script>
 import MainInfo from './MainInfo.vue';
