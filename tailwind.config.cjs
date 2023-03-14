@@ -24,7 +24,8 @@ module.exports = {
         ShuttleGray: '#5e6063',
         Atoll: '#097a7c',
         EbonyClay: '#24343c',
-        Bermuda: '#7ed5d5'
+        Bermuda: '#7ed5d5',
+        Circle: '#D5E9EA'
       }
     },
     container:{
