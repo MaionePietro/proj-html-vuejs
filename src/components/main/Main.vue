@@ -2,6 +2,7 @@
     <MainInfo />
     <MainCompany />
     <MainCards />
+    <MainProcess />
 </template>
 <script>
 import MainInfo from './MainInfo.vue';
@@ -16,8 +17,7 @@ export default {
         MainCards,
         MainProcess,
         MainFeedback
-    }
-    
+    } 
 }
 </script>
 <style scoped lang="scss">

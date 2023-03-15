@@ -22,12 +22,10 @@
                 </ul>
                 <div class="cards grid grid-cols-3 gap-4 mt-8">
                     <div v-for="(card, i) in cards" :key="i"
-                    :class="`card w-[360px] h-[360px] text-key-White rounded-lg bg-contain bg-[url('${ card.src }')] relative`"
-                       
+                    :class="`card w-[360px] h-[360px] text-key-White rounded-lg bg-contain bg-[url('${ card.src }')] relative`"       
                     >
                         <img class="brightness-50" :src="card.src" alt="">
                         <p class="absolute bottom-10 font-bold text-2xl ">{{ card.text }}</p>
-
                     </div>
                 </div>
             </div>
