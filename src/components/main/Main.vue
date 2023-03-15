@@ -3,6 +3,7 @@
     <MainCompany />
     <MainCards />
     <MainProcess />
+    <MainFeedback />
 </template>
 <script>
 import MainInfo from './MainInfo.vue';
