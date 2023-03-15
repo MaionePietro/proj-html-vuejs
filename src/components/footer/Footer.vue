@@ -25,8 +25,8 @@
                             </div>
                             <div class="flex gap-4 my-5">
                                 <input type="phone" class="p-[10px] bg-key-Shark w-1/2" id="exampleFormControlInput1" placeholder="phone">
-                                <select class="p-[10px] bg-key-Shark w-1/2" id="inputGroupSelect01">
-                                  <option selected>more info</option>
+                                <select class=" p-[10px] bg-key-Shark w-1/2 appearance-none" id="inputGroupSelect01">
+                                  <option selected>-more info-</option>
                                   <option value="1">One</option>
                                   <option value="2">Two</option>
                                   <option value="3">Three</option>
