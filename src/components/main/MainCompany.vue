@@ -1,8 +1,7 @@
 <template>
     <section class=" h-[770px] flex relative">
         <div class="w-1/2 "></div>
-        <div class="w-1/2 flex z-10">
-            <img class="object-cover z-0" src="../../assets/img/about-5.jpg" alt="">
+        <div class="w-1/2 bg-[url('/src/assets/img/about-5.jpg')] bg-fixed bg-right bg-container ">
         </div>
 
         <div class="absolute container mx-auto max-w-[1150px] inset-x-0 h-[770px] flex items-center ">
@@ -55,6 +54,7 @@
                     <a class="bg-key-FountainBlue rounded-md px-6 py-2 text-sm" href="">GET IN TOUCH</a>
                     <a class="border-[1px] border-key-FountainBlue text-key-Eim rounded-md px-6 py-2 text-sm" href="">READ MORE</a>
                 </div>
+                
             </div>
         </div>
     </section>
