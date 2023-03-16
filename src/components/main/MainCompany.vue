@@ -1,5 +1,5 @@
 <template>
-    <section class=" h-[770px] flex relative">
+    <section class=" h-[770px] flex relative bg-key-White">
         <div class="w-1/2 "></div>
         <div class="w-1/2 bg-[url('/src/assets/img/about-5.jpg')] bg-fixed bg-right bg-container ">
         </div>

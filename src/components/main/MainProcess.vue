@@ -1,5 +1,5 @@
 <template>
-     <section class=" h-[720px] flex items-center justify-center relative">
+     <section class=" h-[720px] flex items-center justify-center relative bg-key-White">
         <div class="container mx-auto max-w-[1500px]">
             <div class="flex-col text-center">
                 <p class="text-key-FountainBlue my-6">ABOUT THE NETWORK</p>
